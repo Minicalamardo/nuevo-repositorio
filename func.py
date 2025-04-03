@@ -1,5 +1,5 @@
-def suma(*num):
-    return sum(num)
-    
+nombre = "raul"
+apellido = "zepeda"
 
-print(suma(2,2,2,7,9,2,2,2,2,2))
+saludo = "hola" + nombre + " " + apellido + " como esta "
+print(saludo)
